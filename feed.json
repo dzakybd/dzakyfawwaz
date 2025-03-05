@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Dzaky",
+    "description": "",
+    "home_page_url": "https://dzakyfawwaz.vercel.app",
+    "feed_url": "https://dzakyfawwaz.vercel.app/feed.json",
+    "user_comment": "",
+    "icon": "https://dzakyfawwaz.vercel.app/media/website/android-chrome-192x192.png",
+    "author": {
+        "name": "Dzaky Zakiyal Fawwaz"
+    },
+    "items": [
+        {
+            "id": "https://dzakyfawwaz.vercel.app/post/",
+            "url": "https://dzakyfawwaz.vercel.app/post/",
+            "title": "Post 1",
+            "summary": "post 1",
+            "content_html": "<p>post 1</p>",
+            "author": {
+                "name": "Dzaky Zakiyal Fawwaz"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-03-05T21:20:42+07:00",
+            "date_modified": "2025-03-05T21:32:33+07:00"
+        }
+    ]
+}
