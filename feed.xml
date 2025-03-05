@@ -1,45 +1,123 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>Dzaky</title>
-    <link href="https://dzakyfawwaz.vercel.app/feed.xml" rel="self" />
-    <link href="https://dzakyfawwaz.vercel.app" />
-    <updated>2025-03-05T23:05:12+07:00</updated>
+    <title>def dzaky():</title>
+    <link href="https://dzaky.site/feed.xml" rel="self" />
+    <link href="https://dzaky.site" />
+    <updated>2025-03-06T01:37:11+07:00</updated>
     <author>
         <name>Dzaky Zakiyal Fawwaz</name>
     </author>
-    <id>https://dzakyfawwaz.vercel.app</id>
+    <id>https://dzaky.site</id>
 
     <entry>
-        <title>Portofolio 1</title>
+        <title>RFM Analysis</title>
         <author>
             <name>Dzaky Zakiyal Fawwaz</name>
         </author>
-        <link href="https://dzakyfawwaz.vercel.app/portofolio-1/"/>
-        <id>https://dzakyfawwaz.vercel.app/portofolio-1/</id>
-        <media:content url="https://dzakyfawwaz.vercel.app/media/posts/5/8055093-removebg-preview-1.png" medium="image" />
+        <link href="https://dzaky.site/rfm-analysis/"/>
+        <id>https://dzaky.site/rfm-analysis/</id>
+            <category term="🗂️ Portofolio"/>
+
+        <updated>2025-03-06T01:37:11+07:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Generative AI</title>
+        <author>
+            <name>Dzaky Zakiyal Fawwaz</name>
+        </author>
+        <link href="https://dzaky.site/generative-ai/"/>
+        <id>https://dzaky.site/generative-ai/</id>
+            <category term="📑 Blog"/>
+
+        <updated>2025-03-06T00:56:27+07:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>NLP Analysis (Sentiment, Keyword, Topic)</title>
+        <author>
+            <name>Dzaky Zakiyal Fawwaz</name>
+        </author>
+        <link href="https://dzaky.site/nlp-analysis-sentiment-keyword-topic/"/>
+        <id>https://dzaky.site/nlp-analysis-sentiment-keyword-topic/</id>
+            <category term="🗂️ Portofolio"/>
+
+        <updated>2025-03-06T00:55:32+07:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Quality Detection using Computer Vision</title>
+        <author>
+            <name>Dzaky Zakiyal Fawwaz</name>
+        </author>
+        <link href="https://dzaky.site/quality-detection-using-computer-vision/"/>
+        <id>https://dzaky.site/quality-detection-using-computer-vision/</id>
+            <category term="🗂️ Portofolio"/>
+
+        <updated>2025-03-06T00:54:36+07:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Prompt Engineering on Case XXX</title>
+        <author>
+            <name>Dzaky Zakiyal Fawwaz</name>
+        </author>
+        <link href="https://dzaky.site/prompt-engineering-on-case-xxx/"/>
+        <id>https://dzaky.site/prompt-engineering-on-case-xxx/</id>
+            <category term="🗂️ Portofolio"/>
+
+        <updated>2025-03-06T00:53:09+07:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>AI Agent to Analyze XXX</title>
+        <author>
+            <name>Dzaky Zakiyal Fawwaz</name>
+        </author>
+        <link href="https://dzaky.site/agentic-ai/"/>
+        <id>https://dzaky.site/agentic-ai/</id>
+            <category term="🗂️ Portofolio"/>
+
+        <updated>2025-03-06T00:47:17+07:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Multi-Modal RAG Application</title>
+        <author>
+            <name>Dzaky Zakiyal Fawwaz</name>
+        </author>
+        <link href="https://dzaky.site/portofolio-1/"/>
+        <id>https://dzaky.site/portofolio-1/</id>
+        <media:content url="https://dzaky.site/media/posts/5/8055093-removebg-preview-1.png" medium="image" />
             <category term="🗂️ Portofolio"/>
 
         <updated>2025-03-05T22:27:42+07:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://dzakyfawwaz.vercel.app/media/posts/5/8055093-removebg-preview-1.png" alt="" />
+                        <img src="https://dzaky.site/media/posts/5/8055093-removebg-preview-1.png" alt="" />
                     portofolio
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://dzakyfawwaz.vercel.app/media/posts/5/8055093-removebg-preview-1.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://dzaky.site/media/posts/5/8055093-removebg-preview-1.png" class="type:primaryImage" alt="" /></p>
                 <p>portofolio</p>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>Post 1</title>
+        <title>Agentic AI</title>
         <author>
             <name>Dzaky Zakiyal Fawwaz</name>
         </author>
-        <link href="https://dzakyfawwaz.vercel.app/post/"/>
-        <id>https://dzakyfawwaz.vercel.app/post/</id>
+        <link href="https://dzaky.site/post/"/>
+        <id>https://dzaky.site/post/</id>
             <category term="📑 Blog"/>
 
         <updated>2025-03-05T21:20:42+07:00</updated>

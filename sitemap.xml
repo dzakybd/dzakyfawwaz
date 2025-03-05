@@ -1,19 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://dzakyfawwaz.vercel.app/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://dzaky.site/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://dzakyfawwaz.vercel.app/</loc>
+<loc>https://dzaky.site/</loc>
 </url>
 <url>
-<loc>https://dzakyfawwaz.vercel.app/portofolio-1/</loc>
-<lastmod>2025-03-05T23:05:04+07:00</lastmod>
+<loc>https://dzaky.site/agentic-ai/</loc>
+<lastmod>2025-03-06T00:49:03+07:00</lastmod>
+</url>
+<url>
+<loc>https://dzaky.site/generative-ai/</loc>
+<lastmod>2025-03-06T00:56:27+07:00</lastmod>
+</url>
+<url>
+<loc>https://dzaky.site/nlp-analysis-sentiment-keyword-topic/</loc>
+<lastmod>2025-03-06T00:55:36+07:00</lastmod>
+</url>
+<url>
+<loc>https://dzaky.site/portofolio-1/</loc>
+<lastmod>2025-03-06T00:49:15+07:00</lastmod>
 <image:image>
-<image:loc>https://dzakyfawwaz.vercel.app/media/posts/5/8055093-removebg-preview-1.png</image:loc>
+<image:loc>https://dzaky.site/media/posts/5/8055093-removebg-preview-1.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://dzakyfawwaz.vercel.app/post/</loc>
-<lastmod>2025-03-05T23:05:12+07:00</lastmod>
+<loc>https://dzaky.site/post/</loc>
+<lastmod>2025-03-06T00:56:05+07:00</lastmod>
+</url>
+<url>
+<loc>https://dzaky.site/prompt-engineering-on-case-xxx/</loc>
+<lastmod>2025-03-06T00:53:17+07:00</lastmod>
+</url>
+<url>
+<loc>https://dzaky.site/quality-detection-using-computer-vision/</loc>
+<lastmod>2025-03-06T00:55:01+07:00</lastmod>
+</url>
+<url>
+<loc>https://dzaky.site/rfm-analysis/</loc>
+<lastmod>2025-03-06T01:37:11+07:00</lastmod>
 </url>
 </urlset>

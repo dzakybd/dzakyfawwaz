@@ -1,22 +1,99 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Dzaky",
+    "title": "def dzaky():",
     "description": "",
-    "home_page_url": "https://dzakyfawwaz.vercel.app",
-    "feed_url": "https://dzakyfawwaz.vercel.app/feed.json",
+    "home_page_url": "https://dzaky.site",
+    "feed_url": "https://dzaky.site/feed.json",
     "user_comment": "",
-    "icon": "https://dzakyfawwaz.vercel.app/media/website/android-chrome-192x192.png",
     "author": {
         "name": "Dzaky Zakiyal Fawwaz"
     },
     "items": [
         {
-            "id": "https://dzakyfawwaz.vercel.app/portofolio-1/",
-            "url": "https://dzakyfawwaz.vercel.app/portofolio-1/",
-            "title": "Portofolio 1",
+            "id": "https://dzaky.site/rfm-analysis/",
+            "url": "https://dzaky.site/rfm-analysis/",
+            "title": "RFM Analysis",
+            "author": {
+                "name": "Dzaky Zakiyal Fawwaz"
+            },
+            "tags": [
+                   "🗂️ Portofolio"
+            ],
+            "date_published": "2025-03-06T01:37:11+07:00",
+            "date_modified": "2025-03-06T01:37:11+07:00"
+        },
+        {
+            "id": "https://dzaky.site/generative-ai/",
+            "url": "https://dzaky.site/generative-ai/",
+            "title": "Generative AI",
+            "author": {
+                "name": "Dzaky Zakiyal Fawwaz"
+            },
+            "tags": [
+                   "📑 Blog"
+            ],
+            "date_published": "2025-03-06T00:56:27+07:00",
+            "date_modified": "2025-03-06T00:56:27+07:00"
+        },
+        {
+            "id": "https://dzaky.site/nlp-analysis-sentiment-keyword-topic/",
+            "url": "https://dzaky.site/nlp-analysis-sentiment-keyword-topic/",
+            "title": "NLP Analysis (Sentiment, Keyword, Topic)",
+            "author": {
+                "name": "Dzaky Zakiyal Fawwaz"
+            },
+            "tags": [
+                   "🗂️ Portofolio"
+            ],
+            "date_published": "2025-03-06T00:55:32+07:00",
+            "date_modified": "2025-03-06T00:55:36+07:00"
+        },
+        {
+            "id": "https://dzaky.site/quality-detection-using-computer-vision/",
+            "url": "https://dzaky.site/quality-detection-using-computer-vision/",
+            "title": "Quality Detection using Computer Vision",
+            "author": {
+                "name": "Dzaky Zakiyal Fawwaz"
+            },
+            "tags": [
+                   "🗂️ Portofolio"
+            ],
+            "date_published": "2025-03-06T00:54:36+07:00",
+            "date_modified": "2025-03-06T00:55:01+07:00"
+        },
+        {
+            "id": "https://dzaky.site/prompt-engineering-on-case-xxx/",
+            "url": "https://dzaky.site/prompt-engineering-on-case-xxx/",
+            "title": "Prompt Engineering on Case XXX",
+            "author": {
+                "name": "Dzaky Zakiyal Fawwaz"
+            },
+            "tags": [
+                   "🗂️ Portofolio"
+            ],
+            "date_published": "2025-03-06T00:53:09+07:00",
+            "date_modified": "2025-03-06T00:53:17+07:00"
+        },
+        {
+            "id": "https://dzaky.site/agentic-ai/",
+            "url": "https://dzaky.site/agentic-ai/",
+            "title": "AI Agent to Analyze XXX",
+            "author": {
+                "name": "Dzaky Zakiyal Fawwaz"
+            },
+            "tags": [
+                   "🗂️ Portofolio"
+            ],
+            "date_published": "2025-03-06T00:47:17+07:00",
+            "date_modified": "2025-03-06T00:49:03+07:00"
+        },
+        {
+            "id": "https://dzaky.site/portofolio-1/",
+            "url": "https://dzaky.site/portofolio-1/",
+            "title": "Multi-Modal RAG Application",
             "summary": "portofolio",
             "content_html": "<p>portofolio</p>",
-            "image": "https://dzakyfawwaz.vercel.app/media/posts/5/8055093-removebg-preview-1.png",
+            "image": "https://dzaky.site/media/posts/5/8055093-removebg-preview-1.png",
             "author": {
                 "name": "Dzaky Zakiyal Fawwaz"
             },
@@ -24,12 +101,12 @@
                    "🗂️ Portofolio"
             ],
             "date_published": "2025-03-05T22:27:42+07:00",
-            "date_modified": "2025-03-05T23:05:04+07:00"
+            "date_modified": "2025-03-06T00:49:15+07:00"
         },
         {
-            "id": "https://dzakyfawwaz.vercel.app/post/",
-            "url": "https://dzakyfawwaz.vercel.app/post/",
-            "title": "Post 1",
+            "id": "https://dzaky.site/post/",
+            "url": "https://dzaky.site/post/",
+            "title": "Agentic AI",
             "summary": "post 1",
             "content_html": "<p>post 1</p>",
             "author": {
@@ -39,7 +116,7 @@
                    "📑 Blog"
             ],
             "date_published": "2025-03-05T21:20:42+07:00",
-            "date_modified": "2025-03-05T23:05:12+07:00"
+            "date_modified": "2025-03-06T00:56:05+07:00"
         }
     ]
 }
