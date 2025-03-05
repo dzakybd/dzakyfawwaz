@@ -3,7 +3,7 @@
     <title>Dzaky</title>
     <link href="https://dzakyfawwaz.vercel.app/feed.xml" rel="self" />
     <link href="https://dzakyfawwaz.vercel.app" />
-    <updated>2025-03-05T22:27:42+07:00</updated>
+    <updated>2025-03-05T23:05:12+07:00</updated>
     <author>
         <name>Dzaky Zakiyal Fawwaz</name>
     </author>
@@ -16,16 +16,19 @@
         </author>
         <link href="https://dzakyfawwaz.vercel.app/portofolio-1/"/>
         <id>https://dzakyfawwaz.vercel.app/portofolio-1/</id>
-            <category term="Portofolio"/>
+        <media:content url="https://dzakyfawwaz.vercel.app/media/posts/5/8055093-removebg-preview-1.png" medium="image" />
+            <category term="🗂️ Portofolio"/>
 
         <updated>2025-03-05T22:27:42+07:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://dzakyfawwaz.vercel.app/media/posts/5/8055093-removebg-preview-1.png" alt="" />
                     portofolio
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://dzakyfawwaz.vercel.app/media/posts/5/8055093-removebg-preview-1.png" class="type:primaryImage" alt="" /></p>
                 <p>portofolio</p>
             ]]>
         </content>
@@ -37,7 +40,7 @@
         </author>
         <link href="https://dzakyfawwaz.vercel.app/post/"/>
         <id>https://dzakyfawwaz.vercel.app/post/</id>
-            <category term="Blog"/>
+            <category term="📑 Blog"/>
 
         <updated>2025-03-05T21:20:42+07:00</updated>
             <summary>

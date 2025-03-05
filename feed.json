@@ -5,6 +5,7 @@
     "home_page_url": "https://dzakyfawwaz.vercel.app",
     "feed_url": "https://dzakyfawwaz.vercel.app/feed.json",
     "user_comment": "",
+    "icon": "https://dzakyfawwaz.vercel.app/media/website/android-chrome-192x192.png",
     "author": {
         "name": "Dzaky Zakiyal Fawwaz"
     },
@@ -15,14 +16,15 @@
             "title": "Portofolio 1",
             "summary": "portofolio",
             "content_html": "<p>portofolio</p>",
+            "image": "https://dzakyfawwaz.vercel.app/media/posts/5/8055093-removebg-preview-1.png",
             "author": {
                 "name": "Dzaky Zakiyal Fawwaz"
             },
             "tags": [
-                   "Portofolio"
+                   "🗂️ Portofolio"
             ],
             "date_published": "2025-03-05T22:27:42+07:00",
-            "date_modified": "2025-03-05T22:27:42+07:00"
+            "date_modified": "2025-03-05T23:05:04+07:00"
         },
         {
             "id": "https://dzakyfawwaz.vercel.app/post/",
@@ -34,10 +36,10 @@
                 "name": "Dzaky Zakiyal Fawwaz"
             },
             "tags": [
-                   "Blog"
+                   "📑 Blog"
             ],
             "date_published": "2025-03-05T21:20:42+07:00",
-            "date_modified": "2025-03-05T22:25:36+07:00"
+            "date_modified": "2025-03-05T23:05:12+07:00"
         }
     ]
 }
