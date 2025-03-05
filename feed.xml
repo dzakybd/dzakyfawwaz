@@ -3,12 +3,33 @@
     <title>Dzaky</title>
     <link href="https://dzakyfawwaz.vercel.app/feed.xml" rel="self" />
     <link href="https://dzakyfawwaz.vercel.app" />
-    <updated>2025-03-05T21:32:33+07:00</updated>
+    <updated>2025-03-05T22:27:42+07:00</updated>
     <author>
         <name>Dzaky Zakiyal Fawwaz</name>
     </author>
     <id>https://dzakyfawwaz.vercel.app</id>
 
+    <entry>
+        <title>Portofolio 1</title>
+        <author>
+            <name>Dzaky Zakiyal Fawwaz</name>
+        </author>
+        <link href="https://dzakyfawwaz.vercel.app/portofolio-1/"/>
+        <id>https://dzakyfawwaz.vercel.app/portofolio-1/</id>
+            <category term="Portofolio"/>
+
+        <updated>2025-03-05T22:27:42+07:00</updated>
+            <summary>
+                <![CDATA[
+                    portofolio
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>portofolio</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Post 1</title>
         <author>
@@ -16,6 +37,7 @@
         </author>
         <link href="https://dzakyfawwaz.vercel.app/post/"/>
         <id>https://dzakyfawwaz.vercel.app/post/</id>
+            <category term="Blog"/>
 
         <updated>2025-03-05T21:20:42+07:00</updated>
             <summary>
