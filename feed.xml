@@ -3,12 +3,38 @@
     <title>def dzaky():</title>
     <link href="https://dzaky.site/feed.xml" rel="self" />
     <link href="https://dzaky.site" />
-    <updated>2025-03-06T01:37:11+07:00</updated>
+    <updated>2025-03-07T00:01:33+07:00</updated>
     <author>
         <name>Dzaky Zakiyal Fawwaz</name>
     </author>
     <id>https://dzaky.site</id>
 
+    <entry>
+        <title>Responsible AI Testing</title>
+        <author>
+            <name>Dzaky Zakiyal Fawwaz</name>
+        </author>
+        <link href="https://dzaky.site/responsible-ai-testing/"/>
+        <id>https://dzaky.site/responsible-ai-testing/</id>
+            <category term="🗂️ Portofolio"/>
+
+        <updated>2025-03-07T00:01:33+07:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Responsible AI</title>
+        <author>
+            <name>Dzaky Zakiyal Fawwaz</name>
+        </author>
+        <link href="https://dzaky.site/responsible-ai/"/>
+        <id>https://dzaky.site/responsible-ai/</id>
+            <category term="📑 Blog"/>
+
+        <updated>2025-03-07T00:01:16+07:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>RFM Analysis</title>
         <author>

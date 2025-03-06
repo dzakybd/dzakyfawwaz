@@ -10,6 +10,32 @@
     },
     "items": [
         {
+            "id": "https://dzaky.site/responsible-ai-testing/",
+            "url": "https://dzaky.site/responsible-ai-testing/",
+            "title": "Responsible AI Testing",
+            "author": {
+                "name": "Dzaky Zakiyal Fawwaz"
+            },
+            "tags": [
+                   "🗂️ Portofolio"
+            ],
+            "date_published": "2025-03-07T00:01:33+07:00",
+            "date_modified": "2025-03-07T00:01:33+07:00"
+        },
+        {
+            "id": "https://dzaky.site/responsible-ai/",
+            "url": "https://dzaky.site/responsible-ai/",
+            "title": "Responsible AI",
+            "author": {
+                "name": "Dzaky Zakiyal Fawwaz"
+            },
+            "tags": [
+                   "📑 Blog"
+            ],
+            "date_published": "2025-03-07T00:01:16+07:00",
+            "date_modified": "2025-03-07T00:01:16+07:00"
+        },
+        {
             "id": "https://dzaky.site/rfm-analysis/",
             "url": "https://dzaky.site/rfm-analysis/",
             "title": "RFM Analysis",
