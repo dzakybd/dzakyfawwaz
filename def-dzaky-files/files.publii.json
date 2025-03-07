@@ -1,0 +1,917 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "d00d73c8e8842021bb83e764618a33cb"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "e5909a88ba1158a79ba2dbf82d6b2d86"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "121f9229b70ae53481164a337d2b1fae"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "11bee19e86e8eda2cf9a60efd975666d"
+    },
+    {
+        "path": "assets/dynamic",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "e9e5c3efbaa696d1490988cf5b30e23b"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "ffcbea6c02c8178d10092962b235a5b0"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "7c0d2bb7276904b382e80bf2d85e8a96"
+    },
+    {
+        "path": "/assets/js/svg-map.js",
+        "type": "file",
+        "md5": "f0c119fe4ab4e9bba79dea32d15e32df"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "cf04dfd5c3cc64e0be44692fe7d976a6"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/dzaky-zakiyal-fawwaz",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/dzaky-zakiyal-fawwaz/index.html",
+        "type": "file",
+        "md5": "0caf70fc8680ea37f28a9d4ac5817b0b"
+    },
+    {
+        "path": "authors/dzaky-zakiyal-fawwaz/page",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/dzaky-zakiyal-fawwaz/page/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/dzaky-zakiyal-fawwaz/page/2/index.html",
+        "type": "file",
+        "md5": "34059f488e71af3c15b1f81fe0703623"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "a0cf1bbe67f1a07fffe8c0021cc25a76"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "d01c01b7bfd0a9a8c0ef6d863d8f79a9"
+    },
+    {
+        "path": "generative-ai",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/generative-ai/index.html",
+        "type": "file",
+        "md5": "5e6282ad9ab1ad625a7296c649a1966f"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "56fbc310dd640d43f31bfbbf4103afd5"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/1",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/1/1.png",
+        "type": "file",
+        "md5": "dd0bd1cacad0fc39ff7afd697b3eafe7"
+    },
+    {
+        "path": "/media/posts/1/2.png",
+        "type": "file",
+        "md5": "7b137569c0a9bd996474ca666254be99"
+    },
+    {
+        "path": "/media/posts/1/3.png",
+        "type": "file",
+        "md5": "4c314e66efc8a31e52769a2436e63bb4"
+    },
+    {
+        "path": "/media/posts/1/4.png",
+        "type": "file",
+        "md5": "6db02e95401c43b5d024217e0b3ccf92"
+    },
+    {
+        "path": "/media/posts/1/IMG_6381-1.JPG",
+        "type": "file",
+        "md5": "cd36be04c95d14464007996d3d431e3d"
+    },
+    {
+        "path": "/media/posts/1/IMG_6552.jpg",
+        "type": "file",
+        "md5": "738c5ace2c06f9165c034c8c48ebd221"
+    },
+    {
+        "path": "/media/posts/1/Picture1.png",
+        "type": "file",
+        "md5": "d03cdbaf60f980766334e09756ad52f4"
+    },
+    {
+        "path": "media/posts/1/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/1/responsive/1-2xl.png",
+        "type": "file",
+        "md5": "2941ec59e9e1363860697a655f179a61"
+    },
+    {
+        "path": "/media/posts/1/responsive/1-lg.png",
+        "type": "file",
+        "md5": "2941ec59e9e1363860697a655f179a61"
+    },
+    {
+        "path": "/media/posts/1/responsive/1-md.png",
+        "type": "file",
+        "md5": "2941ec59e9e1363860697a655f179a61"
+    },
+    {
+        "path": "/media/posts/1/responsive/1-sm.png",
+        "type": "file",
+        "md5": "2941ec59e9e1363860697a655f179a61"
+    },
+    {
+        "path": "/media/posts/1/responsive/1-xl.png",
+        "type": "file",
+        "md5": "2941ec59e9e1363860697a655f179a61"
+    },
+    {
+        "path": "/media/posts/1/responsive/1-xs.png",
+        "type": "file",
+        "md5": "2941ec59e9e1363860697a655f179a61"
+    },
+    {
+        "path": "/media/posts/1/responsive/2-2xl.png",
+        "type": "file",
+        "md5": "a530b3fc7385d2c381a94c3633b66067"
+    },
+    {
+        "path": "/media/posts/1/responsive/2-lg.png",
+        "type": "file",
+        "md5": "a530b3fc7385d2c381a94c3633b66067"
+    },
+    {
+        "path": "/media/posts/1/responsive/2-md.png",
+        "type": "file",
+        "md5": "a530b3fc7385d2c381a94c3633b66067"
+    },
+    {
+        "path": "/media/posts/1/responsive/2-sm.png",
+        "type": "file",
+        "md5": "a530b3fc7385d2c381a94c3633b66067"
+    },
+    {
+        "path": "/media/posts/1/responsive/2-xl.png",
+        "type": "file",
+        "md5": "a530b3fc7385d2c381a94c3633b66067"
+    },
+    {
+        "path": "/media/posts/1/responsive/2-xs.png",
+        "type": "file",
+        "md5": "a530b3fc7385d2c381a94c3633b66067"
+    },
+    {
+        "path": "/media/posts/1/responsive/3-2xl.png",
+        "type": "file",
+        "md5": "5b60334242a801709be402d6796c889b"
+    },
+    {
+        "path": "/media/posts/1/responsive/3-lg.png",
+        "type": "file",
+        "md5": "5b60334242a801709be402d6796c889b"
+    },
+    {
+        "path": "/media/posts/1/responsive/3-md.png",
+        "type": "file",
+        "md5": "5b60334242a801709be402d6796c889b"
+    },
+    {
+        "path": "/media/posts/1/responsive/3-sm.png",
+        "type": "file",
+        "md5": "5b60334242a801709be402d6796c889b"
+    },
+    {
+        "path": "/media/posts/1/responsive/3-xl.png",
+        "type": "file",
+        "md5": "5b60334242a801709be402d6796c889b"
+    },
+    {
+        "path": "/media/posts/1/responsive/3-xs.png",
+        "type": "file",
+        "md5": "5b60334242a801709be402d6796c889b"
+    },
+    {
+        "path": "/media/posts/1/responsive/4-2xl.png",
+        "type": "file",
+        "md5": "1a8afdeaf9621d851819d532d5adb269"
+    },
+    {
+        "path": "/media/posts/1/responsive/4-lg.png",
+        "type": "file",
+        "md5": "1a8afdeaf9621d851819d532d5adb269"
+    },
+    {
+        "path": "/media/posts/1/responsive/4-md.png",
+        "type": "file",
+        "md5": "1a8afdeaf9621d851819d532d5adb269"
+    },
+    {
+        "path": "/media/posts/1/responsive/4-sm.png",
+        "type": "file",
+        "md5": "1a8afdeaf9621d851819d532d5adb269"
+    },
+    {
+        "path": "/media/posts/1/responsive/4-xl.png",
+        "type": "file",
+        "md5": "1a8afdeaf9621d851819d532d5adb269"
+    },
+    {
+        "path": "/media/posts/1/responsive/4-xs.png",
+        "type": "file",
+        "md5": "1a8afdeaf9621d851819d532d5adb269"
+    },
+    {
+        "path": "/media/posts/1/responsive/IMG_6381-1-2xl.JPG",
+        "type": "file",
+        "md5": "8c6493492b57673aa66df366e59d0f2c"
+    },
+    {
+        "path": "/media/posts/1/responsive/IMG_6381-1-lg.JPG",
+        "type": "file",
+        "md5": "4e7ce2aac21cbb889da5ff7c5e5d7bb3"
+    },
+    {
+        "path": "/media/posts/1/responsive/IMG_6381-1-md.JPG",
+        "type": "file",
+        "md5": "03a3027e8624e52d05c7825fe292341b"
+    },
+    {
+        "path": "/media/posts/1/responsive/IMG_6381-1-sm.JPG",
+        "type": "file",
+        "md5": "47a5c4d0431ff01dd4dfa34594767f94"
+    },
+    {
+        "path": "/media/posts/1/responsive/IMG_6381-1-xl.JPG",
+        "type": "file",
+        "md5": "805f39832996b00cb579379a59a7a445"
+    },
+    {
+        "path": "/media/posts/1/responsive/IMG_6381-1-xs.JPG",
+        "type": "file",
+        "md5": "afbdb8785a3892051e768265c1756060"
+    },
+    {
+        "path": "/media/posts/1/responsive/IMG_6552-2xl.jpg",
+        "type": "file",
+        "md5": "d08fbe9cdcb87103eacf1efbdb87a2da"
+    },
+    {
+        "path": "/media/posts/1/responsive/IMG_6552-lg.jpg",
+        "type": "file",
+        "md5": "d08fbe9cdcb87103eacf1efbdb87a2da"
+    },
+    {
+        "path": "/media/posts/1/responsive/IMG_6552-md.jpg",
+        "type": "file",
+        "md5": "d08fbe9cdcb87103eacf1efbdb87a2da"
+    },
+    {
+        "path": "/media/posts/1/responsive/IMG_6552-sm.jpg",
+        "type": "file",
+        "md5": "43a2d33f14cf6f662c44f0ed6ba16d67"
+    },
+    {
+        "path": "/media/posts/1/responsive/IMG_6552-xl.jpg",
+        "type": "file",
+        "md5": "d08fbe9cdcb87103eacf1efbdb87a2da"
+    },
+    {
+        "path": "/media/posts/1/responsive/IMG_6552-xs.jpg",
+        "type": "file",
+        "md5": "ad10531fef7f13a4c69b3d8372d76430"
+    },
+    {
+        "path": "/media/posts/1/responsive/Picture1-2xl.png",
+        "type": "file",
+        "md5": "dc966793bb2aeaf9665f1013a6c2f750"
+    },
+    {
+        "path": "/media/posts/1/responsive/Picture1-lg.png",
+        "type": "file",
+        "md5": "dc966793bb2aeaf9665f1013a6c2f750"
+    },
+    {
+        "path": "/media/posts/1/responsive/Picture1-md.png",
+        "type": "file",
+        "md5": "dc966793bb2aeaf9665f1013a6c2f750"
+    },
+    {
+        "path": "/media/posts/1/responsive/Picture1-sm.png",
+        "type": "file",
+        "md5": "be878ddfb5161ae3840f46cf8bbfc331"
+    },
+    {
+        "path": "/media/posts/1/responsive/Picture1-xl.png",
+        "type": "file",
+        "md5": "dc966793bb2aeaf9665f1013a6c2f750"
+    },
+    {
+        "path": "/media/posts/1/responsive/Picture1-xs.png",
+        "type": "file",
+        "md5": "62dfb860461052fdac2ad9e2e88f2bf0"
+    },
+    {
+        "path": "media/posts/11",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/11/pdf.png",
+        "type": "file",
+        "md5": "5e567e4b387e57592d21c48d827b0b76"
+    },
+    {
+        "path": "media/posts/11/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/11/responsive/pdf-2xl.png",
+        "type": "file",
+        "md5": "1192b7970ad61352358b452c0161c7b3"
+    },
+    {
+        "path": "/media/posts/11/responsive/pdf-lg.png",
+        "type": "file",
+        "md5": "729ce00b640495e63b5ba650055328e9"
+    },
+    {
+        "path": "/media/posts/11/responsive/pdf-md.png",
+        "type": "file",
+        "md5": "0e17e33387a80af346bcc709b5b99f52"
+    },
+    {
+        "path": "/media/posts/11/responsive/pdf-sm.png",
+        "type": "file",
+        "md5": "f4778dbd19a217b6ca74b0fd6488a7ec"
+    },
+    {
+        "path": "/media/posts/11/responsive/pdf-xl.png",
+        "type": "file",
+        "md5": "42d77beda7051f8da2788b2d97e24a53"
+    },
+    {
+        "path": "/media/posts/11/responsive/pdf-xs.png",
+        "type": "file",
+        "md5": "1b081c17a3c8f18f8dcc518b6e5e2bf4"
+    },
+    {
+        "path": "media/posts/13",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/13/llm-workflow-2.png",
+        "type": "file",
+        "md5": "af6a684b2bdbd9b9af3ab18970a5c3db"
+    },
+    {
+        "path": "/media/posts/13/llm-workflow.png",
+        "type": "file",
+        "md5": "af6a684b2bdbd9b9af3ab18970a5c3db"
+    },
+    {
+        "path": "media/posts/13/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/13/responsive/llm-workflow-2-2xl.png",
+        "type": "file",
+        "md5": "78ed9fd8f25c18ad2ac0771947257cb5"
+    },
+    {
+        "path": "/media/posts/13/responsive/llm-workflow-2-lg.png",
+        "type": "file",
+        "md5": "e487c0b8499bf0b0bac3f0865e2912bf"
+    },
+    {
+        "path": "/media/posts/13/responsive/llm-workflow-2-md.png",
+        "type": "file",
+        "md5": "c52539644ae67c26175da32a7574081d"
+    },
+    {
+        "path": "/media/posts/13/responsive/llm-workflow-2-sm.png",
+        "type": "file",
+        "md5": "c7d2799807b2762f463daf62fd92de9e"
+    },
+    {
+        "path": "/media/posts/13/responsive/llm-workflow-2-xl.png",
+        "type": "file",
+        "md5": "2404691a0e827fda9fedc912dca6c78e"
+    },
+    {
+        "path": "/media/posts/13/responsive/llm-workflow-2-xs.png",
+        "type": "file",
+        "md5": "e024485837bcc215825587a75ec0239c"
+    },
+    {
+        "path": "/media/posts/13/responsive/llm-workflow-2xl.png",
+        "type": "file",
+        "md5": "78ed9fd8f25c18ad2ac0771947257cb5"
+    },
+    {
+        "path": "/media/posts/13/responsive/llm-workflow-lg.png",
+        "type": "file",
+        "md5": "e487c0b8499bf0b0bac3f0865e2912bf"
+    },
+    {
+        "path": "/media/posts/13/responsive/llm-workflow-md.png",
+        "type": "file",
+        "md5": "c52539644ae67c26175da32a7574081d"
+    },
+    {
+        "path": "/media/posts/13/responsive/llm-workflow-sm.png",
+        "type": "file",
+        "md5": "c7d2799807b2762f463daf62fd92de9e"
+    },
+    {
+        "path": "/media/posts/13/responsive/llm-workflow-xl.png",
+        "type": "file",
+        "md5": "2404691a0e827fda9fedc912dca6c78e"
+    },
+    {
+        "path": "/media/posts/13/responsive/llm-workflow-xs.png",
+        "type": "file",
+        "md5": "e024485837bcc215825587a75ec0239c"
+    },
+    {
+        "path": "media/posts/5",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/5/agent.png",
+        "type": "file",
+        "md5": "7d9ca65d9e9e376305154bfe04348402"
+    },
+    {
+        "path": "media/posts/5/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/5/responsive/agent-2xl.png",
+        "type": "file",
+        "md5": "16f5fff7114ac2f9b68e1ba392ae27b6"
+    },
+    {
+        "path": "/media/posts/5/responsive/agent-lg.png",
+        "type": "file",
+        "md5": "162e4a407febceb335da7ad0b9a7ec73"
+    },
+    {
+        "path": "/media/posts/5/responsive/agent-md.png",
+        "type": "file",
+        "md5": "7875df61a96802785d6acc2f3456c8b0"
+    },
+    {
+        "path": "/media/posts/5/responsive/agent-sm.png",
+        "type": "file",
+        "md5": "e4cda0ce4720f435d0ffa8b19d6149fa"
+    },
+    {
+        "path": "/media/posts/5/responsive/agent-xl.png",
+        "type": "file",
+        "md5": "c5a764e28be3465de225fe787c012a61"
+    },
+    {
+        "path": "/media/posts/5/responsive/agent-xs.png",
+        "type": "file",
+        "md5": "ef163988c0da55f21e993f111adad63a"
+    },
+    {
+        "path": "media/posts/7",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/7/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/7/responsive/tagging-2xl.png",
+        "type": "file",
+        "md5": "4fa4ba506bd23cfcdb14cd5e4726b3f4"
+    },
+    {
+        "path": "/media/posts/7/responsive/tagging-lg.png",
+        "type": "file",
+        "md5": "dbc81b7fbd87aaca1e29572955e88e14"
+    },
+    {
+        "path": "/media/posts/7/responsive/tagging-md.png",
+        "type": "file",
+        "md5": "11e98fde67f52a013736809abda01a48"
+    },
+    {
+        "path": "/media/posts/7/responsive/tagging-sm.png",
+        "type": "file",
+        "md5": "be2d291da5bed89eac08866c0509fef3"
+    },
+    {
+        "path": "/media/posts/7/responsive/tagging-xl.png",
+        "type": "file",
+        "md5": "2dc27c650b91ef85f0e821f4a731feaf"
+    },
+    {
+        "path": "/media/posts/7/responsive/tagging-xs.png",
+        "type": "file",
+        "md5": "db5507983ef82d8c034168dfa663c03f"
+    },
+    {
+        "path": "/media/posts/7/tagging.png",
+        "type": "file",
+        "md5": "7e4571e4166a0d2c12622c825adb96db"
+    },
+    {
+        "path": "media/posts/8",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/8/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/8/responsive/sentiment-2xl.png",
+        "type": "file",
+        "md5": "e3b54dfc56f5ccee815328e76542585e"
+    },
+    {
+        "path": "/media/posts/8/responsive/sentiment-lg.png",
+        "type": "file",
+        "md5": "a4711998d9618198bc6efb5a4bb4780b"
+    },
+    {
+        "path": "/media/posts/8/responsive/sentiment-md.png",
+        "type": "file",
+        "md5": "12532870d5d142644b5760aaa6ba4ecc"
+    },
+    {
+        "path": "/media/posts/8/responsive/sentiment-sm.png",
+        "type": "file",
+        "md5": "4d9d82bf2dc5f074c04214e9e2fde962"
+    },
+    {
+        "path": "/media/posts/8/responsive/sentiment-xl.png",
+        "type": "file",
+        "md5": "90cd3bdcb2f070e4e222c8b91dbb9887"
+    },
+    {
+        "path": "/media/posts/8/responsive/sentiment-xs.png",
+        "type": "file",
+        "md5": "b694b6137f86220f2c5fe7b923619f77"
+    },
+    {
+        "path": "/media/posts/8/sentiment.png",
+        "type": "file",
+        "md5": "4d07bab70a687e434bfe7b36f5c973c1"
+    },
+    {
+        "path": "media/posts/9",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/9/rag.png",
+        "type": "file",
+        "md5": "b3894c3a66ae05bb82eec815fbf3847e"
+    },
+    {
+        "path": "media/posts/9/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/9/responsive/rag-2xl.png",
+        "type": "file",
+        "md5": "06ca5fbfbe3a63ee3b0832544b721940"
+    },
+    {
+        "path": "/media/posts/9/responsive/rag-lg.png",
+        "type": "file",
+        "md5": "5a45e46432fa64077758d12ca7d75026"
+    },
+    {
+        "path": "/media/posts/9/responsive/rag-md.png",
+        "type": "file",
+        "md5": "0c0aaa7c7354ffc34c8ff398483f9c46"
+    },
+    {
+        "path": "/media/posts/9/responsive/rag-sm.png",
+        "type": "file",
+        "md5": "30214224ca803774bc1f365c5243bd79"
+    },
+    {
+        "path": "/media/posts/9/responsive/rag-xl.png",
+        "type": "file",
+        "md5": "f13b3f7b508c196f9365b15866b92001"
+    },
+    {
+        "path": "/media/posts/9/responsive/rag-xs.png",
+        "type": "file",
+        "md5": "5e17c12f7ad9348982e77104cf1b1d6c"
+    },
+    {
+        "path": "media/website",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/android-chrome-192x192-2.png",
+        "type": "file",
+        "md5": "e60100c16a2315d9c08683663f460575"
+    },
+    {
+        "path": "/media/website/favicon-16x16.png",
+        "type": "file",
+        "md5": "769f641c508eb1cbd9d2ef1615ffc4f8"
+    },
+    {
+        "path": "media/website/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/responsive/android-chrome-192x192-2-2xl.png",
+        "type": "file",
+        "md5": "336a66661f21c7cbd6b9f2805896149c"
+    },
+    {
+        "path": "/media/website/responsive/android-chrome-192x192-2-lg.png",
+        "type": "file",
+        "md5": "336a66661f21c7cbd6b9f2805896149c"
+    },
+    {
+        "path": "/media/website/responsive/android-chrome-192x192-2-md.png",
+        "type": "file",
+        "md5": "336a66661f21c7cbd6b9f2805896149c"
+    },
+    {
+        "path": "/media/website/responsive/android-chrome-192x192-2-sm.png",
+        "type": "file",
+        "md5": "336a66661f21c7cbd6b9f2805896149c"
+    },
+    {
+        "path": "/media/website/responsive/android-chrome-192x192-2-xl.png",
+        "type": "file",
+        "md5": "336a66661f21c7cbd6b9f2805896149c"
+    },
+    {
+        "path": "/media/website/responsive/android-chrome-192x192-2-xs.png",
+        "type": "file",
+        "md5": "336a66661f21c7cbd6b9f2805896149c"
+    },
+    {
+        "path": "/media/website/responsive/favicon-16x16-2xl.png",
+        "type": "file",
+        "md5": "4d86165b7cd9d3ef0b2c921fa55c2c14"
+    },
+    {
+        "path": "/media/website/responsive/favicon-16x16-lg.png",
+        "type": "file",
+        "md5": "4d86165b7cd9d3ef0b2c921fa55c2c14"
+    },
+    {
+        "path": "/media/website/responsive/favicon-16x16-md.png",
+        "type": "file",
+        "md5": "4d86165b7cd9d3ef0b2c921fa55c2c14"
+    },
+    {
+        "path": "/media/website/responsive/favicon-16x16-sm.png",
+        "type": "file",
+        "md5": "4d86165b7cd9d3ef0b2c921fa55c2c14"
+    },
+    {
+        "path": "/media/website/responsive/favicon-16x16-xl.png",
+        "type": "file",
+        "md5": "4d86165b7cd9d3ef0b2c921fa55c2c14"
+    },
+    {
+        "path": "/media/website/responsive/favicon-16x16-xs.png",
+        "type": "file",
+        "md5": "4d86165b7cd9d3ef0b2c921fa55c2c14"
+    },
+    {
+        "path": "nlp-analysis-sentiment-keyword-topic",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/nlp-analysis-sentiment-keyword-topic/index.html",
+        "type": "file",
+        "md5": "6d5fe3197bdba85cdc2c7257a1cf3f19"
+    },
+    {
+        "path": "portofolio-1",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/portofolio-1/index.html",
+        "type": "file",
+        "md5": "59a3a23f98143a19b5463513b1cd5117"
+    },
+    {
+        "path": "post",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/post/index.html",
+        "type": "file",
+        "md5": "c6fdb61ffe0d7895cfe7f5d0ef1ef710"
+    },
+    {
+        "path": "prompt-engineering-on-case-xxx",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/prompt-engineering-on-case-xxx/index.html",
+        "type": "file",
+        "md5": "b221155b1fff5d5c3f6631611feacba5"
+    },
+    {
+        "path": "quality-detection-using-computer-vision",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/quality-detection-using-computer-vision/index.html",
+        "type": "file",
+        "md5": "f5eaabff44c5cb21f1f85c272e8e5365"
+    },
+    {
+        "path": "responsible-ai",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/responsible-ai/index.html",
+        "type": "file",
+        "md5": "bbfd53bcaf65c37252392e23f1872102"
+    },
+    {
+        "path": "responsible-ai-testing",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/responsible-ai-testing/index.html",
+        "type": "file",
+        "md5": "5cd0b65d24c3969be0097f04ab054620"
+    },
+    {
+        "path": "rfm-analysis",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/rfm-analysis/index.html",
+        "type": "file",
+        "md5": "102ae8ba4ab441129ca738678ebafe86"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "fba5fd75c3044db2f81ba408a2fdb5f0"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "a7fd1a1aae54f8d53a4b9fc7298ca675"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "51a7bcec43fa1ef0366100d5c2edbe75"
+    },
+    {
+        "path": "tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "tags/blog",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/blog/index.html",
+        "type": "file",
+        "md5": "c50603a1821a7352970f68197b565f47"
+    },
+    {
+        "path": "/tags/index.html",
+        "type": "file",
+        "md5": "40674776e51fcc1695f38be483e01cca"
+    },
+    {
+        "path": "tags/portofolio",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/portofolio/index.html",
+        "type": "file",
+        "md5": "a524fcd082dcb914ca3f69dcf72b83e4"
+    },
+    {
+        "path": "tags/portofolio/page",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "tags/portofolio/page/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/portofolio/page/2/index.html",
+        "type": "file",
+        "md5": "14d024c6c0af32e93fa0e4690bc9b736"
+    }
+]
