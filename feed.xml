@@ -3,12 +3,50 @@
     <title>def dzaky():</title>
     <link href="https://dzaky.site/feed.xml" rel="self" />
     <link href="https://dzaky.site" />
-    <updated>2025-03-07T16:05:24+07:00</updated>
+    <updated>2025-03-12T23:24:12+07:00</updated>
     <author>
         <name>Dzaky Zakiyal Fawwaz</name>
     </author>
     <id>https://dzaky.site</id>
 
+    <entry>
+        <title>Research Data Analysis &amp; Visualization</title>
+        <author>
+            <name>Dzaky Zakiyal Fawwaz</name>
+        </author>
+        <link href="https://dzaky.site/porto-data/"/>
+        <id>https://dzaky.site/porto-data/</id>
+        <media:content url="https://dzaky.site/media/posts/15/Dzaky-Research-Data-Analysis-and-Visualization.jpg" medium="image" />
+            <category term="🗂️ Portofolio"/>
+
+        <updated>2025-03-12T23:21:46+07:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://dzaky.site/media/posts/15/Dzaky-Research-Data-Analysis-and-Visualization.jpg" class="type:primaryImage" alt="" /></p>
+                <div class="post__iframe"><iframe loading="lazy" width="1440" height="839" src="https://docs.google.com/presentation/d/e/2PACX-1vSbAJR6uxLY_NmyEL9Yyo_elXdTUb385nqOMKNOSm1iJLk9sSWb-LxhvcfMePcHO1WXdPtRs2jSWsoS/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" allowfullscreen="allowfullscreen" mozallowfullscreen="mozallowfullscreen" webkitallowfullscreen="webkitallowfullscreen"></iframe></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Manuscript Editing &amp; Proofreading</title>
+        <author>
+            <name>Dzaky Zakiyal Fawwaz</name>
+        </author>
+        <link href="https://dzaky.site/porto-research/"/>
+        <id>https://dzaky.site/porto-research/</id>
+        <media:content url="https://dzaky.site/media/posts/14/Dzaky-Manuscript-Editing-and-Proofreading.jpg" medium="image" />
+            <category term="🗂️ Portofolio"/>
+
+        <updated>2025-03-12T23:19:51+07:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://dzaky.site/media/posts/14/Dzaky-Manuscript-Editing-and-Proofreading.jpg" class="type:primaryImage" alt="" /></p>
+                <div class="post__iframe"><iframe loading="lazy" width="1440" height="839" src="https://docs.google.com/presentation/d/e/2PACX-1vTsfN9tYFu3NuppYrP-K8gsBZfcY7qxzrCi8D1UgVfffBcZvD4JKKxmf3F6Y1TMijMZ0M5x60WnRLjG/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" allowfullscreen="allowfullscreen" mozallowfullscreen="mozallowfullscreen" webkitallowfullscreen="webkitallowfullscreen"></iframe></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>LLM Workflow Integration</title>
         <author>
@@ -195,27 +233,6 @@
 <li data-start="174" data-end="483"><strong data-start="176" data-end="200">Project Description:</strong> Developed a multi-agent chatbot that enables flexible conversation patterns, including joint and hierarchical chats. Integrated agent customization with Conversable AI and multiple LLMs. Built using Streamlit, Gemini, LangChain, and CrewAI to enhance collaboration and automation.</li>
 <li data-start="484" data-end="578"><strong data-start="486" data-end="514">Skills and Deliverables:</strong> AI Chatbot, Multi-Agent Systems, LangChain, Streamlit, CrewAI</li>
 </ul>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Agentic AI</title>
-        <author>
-            <name>Dzaky Zakiyal Fawwaz</name>
-        </author>
-        <link href="https://dzaky.site/post/"/>
-        <id>https://dzaky.site/post/</id>
-            <category term="📑 Blog"/>
-
-        <updated>2025-03-05T21:20:42+07:00</updated>
-            <summary>
-                <![CDATA[
-                    post 1
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>post 1</p>
             ]]>
         </content>
     </entry>

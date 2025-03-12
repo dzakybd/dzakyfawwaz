@@ -97,7 +97,17 @@
     {
         "path": "/authors/dzaky-zakiyal-fawwaz/page/2/index.html",
         "type": "file",
-        "md5": "34059f488e71af3c15b1f81fe0703623"
+        "md5": "182303b81640da8e9582f599f5832000"
+    },
+    {
+        "path": "authors/dzaky-zakiyal-fawwaz/page/3",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/dzaky-zakiyal-fawwaz/page/3/index.html",
+        "type": "file",
+        "md5": "2b3e1f6cb8c7de45dac763a568b59d22"
     },
     {
         "path": "automated-document-and-image-tagging-using-vlm",
@@ -107,7 +117,7 @@
     {
         "path": "/automated-document-and-image-tagging-using-vlm/index.html",
         "type": "file",
-        "md5": "75416e2b230b249e5c704604a984aa7f"
+        "md5": "67896c1414c3a80ea46fc25db183028d"
     },
     {
         "path": "bulk-pdf-extraction-using-llm",
@@ -117,17 +127,17 @@
     {
         "path": "/bulk-pdf-extraction-using-llm/index.html",
         "type": "file",
-        "md5": "1179c242aceec170d1211d0043cb734e"
+        "md5": "353811f19e30d84452ff79eb69ae18bd"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "5a4ba7f1fadbc47ab8ea03819d756134"
+        "md5": "ada1d7027c6c2f806f28f9e3d4ad2300"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "a6aeafdecd52da32fc32dedbe6556fc5"
+        "md5": "5446f250631bb046cac0471425b7f142"
     },
     {
         "path": "generative-ai",
@@ -152,7 +162,7 @@
     {
         "path": "/llm-workflow-integration/index.html",
         "type": "file",
-        "md5": "6fead9300805e4bafa529b2fcbfdb900"
+        "md5": "658f653dcba82d44ce21a350f94a4ac0"
     },
     {
         "path": "media",
@@ -545,6 +555,96 @@
         "md5": "e024485837bcc215825587a75ec0239c"
     },
     {
+        "path": "media/posts/14",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/14/Dzaky-Manuscript-Editing-and-Proofreading.jpg",
+        "type": "file",
+        "md5": "2eeeb6fa10ee21bbab0babf78034b696"
+    },
+    {
+        "path": "media/posts/14/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/14/responsive/Dzaky-Manuscript-Editing-and-Proofreading-2xl.jpg",
+        "type": "file",
+        "md5": "c43c3875ee06492c2eff5fa26ddc80b9"
+    },
+    {
+        "path": "/media/posts/14/responsive/Dzaky-Manuscript-Editing-and-Proofreading-lg.jpg",
+        "type": "file",
+        "md5": "c43c3875ee06492c2eff5fa26ddc80b9"
+    },
+    {
+        "path": "/media/posts/14/responsive/Dzaky-Manuscript-Editing-and-Proofreading-md.jpg",
+        "type": "file",
+        "md5": "c43c3875ee06492c2eff5fa26ddc80b9"
+    },
+    {
+        "path": "/media/posts/14/responsive/Dzaky-Manuscript-Editing-and-Proofreading-sm.jpg",
+        "type": "file",
+        "md5": "500e2ae34860b5dff72349523f40aba8"
+    },
+    {
+        "path": "/media/posts/14/responsive/Dzaky-Manuscript-Editing-and-Proofreading-xl.jpg",
+        "type": "file",
+        "md5": "c43c3875ee06492c2eff5fa26ddc80b9"
+    },
+    {
+        "path": "/media/posts/14/responsive/Dzaky-Manuscript-Editing-and-Proofreading-xs.jpg",
+        "type": "file",
+        "md5": "718e400507f9955a07b82c91729a08fc"
+    },
+    {
+        "path": "media/posts/15",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/15/Dzaky-Research-Data-Analysis-and-Visualization.jpg",
+        "type": "file",
+        "md5": "ffc9e4d50f44bd7fb33e0aefcd57444c"
+    },
+    {
+        "path": "media/posts/15/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/15/responsive/Dzaky-Research-Data-Analysis-and-Visualization-2xl.jpg",
+        "type": "file",
+        "md5": "e92fd084c0c421286c1837a6bdda491c"
+    },
+    {
+        "path": "/media/posts/15/responsive/Dzaky-Research-Data-Analysis-and-Visualization-lg.jpg",
+        "type": "file",
+        "md5": "e92fd084c0c421286c1837a6bdda491c"
+    },
+    {
+        "path": "/media/posts/15/responsive/Dzaky-Research-Data-Analysis-and-Visualization-md.jpg",
+        "type": "file",
+        "md5": "e92fd084c0c421286c1837a6bdda491c"
+    },
+    {
+        "path": "/media/posts/15/responsive/Dzaky-Research-Data-Analysis-and-Visualization-sm.jpg",
+        "type": "file",
+        "md5": "8fc1734badf7d17be86398e51d5172c2"
+    },
+    {
+        "path": "/media/posts/15/responsive/Dzaky-Research-Data-Analysis-and-Visualization-xl.jpg",
+        "type": "file",
+        "md5": "e92fd084c0c421286c1837a6bdda491c"
+    },
+    {
+        "path": "/media/posts/15/responsive/Dzaky-Research-Data-Analysis-and-Visualization-xs.jpg",
+        "type": "file",
+        "md5": "680ee072d6c095f2b10009a54ac481a3"
+    },
+    {
         "path": "media/posts/5",
         "type": "directory",
         "md5": false
@@ -812,7 +912,7 @@
     {
         "path": "/multi-agents-chatbot/index.html",
         "type": "file",
-        "md5": "8de4523025467e5b8555f1df9417c92e"
+        "md5": "d81f67ba108dafb87ccccd7cef914f73"
     },
     {
         "path": "multimodal-rag-app",
@@ -822,7 +922,27 @@
     {
         "path": "/multimodal-rag-app/index.html",
         "type": "file",
-        "md5": "126e8a8b13c4bd04a42eed725c238850"
+        "md5": "9cea2f882ff26b8da9c38f5a70a500aa"
+    },
+    {
+        "path": "porto-data",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/porto-data/index.html",
+        "type": "file",
+        "md5": "fdc24a4e86de1fe9eb164d8c96baf2cc"
+    },
+    {
+        "path": "porto-research",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/porto-research/index.html",
+        "type": "file",
+        "md5": "5590b31fa5745d6b18ad2c6aa8cc9c51"
     },
     {
         "path": "post",
@@ -857,12 +977,12 @@
     {
         "path": "/sentiment-analysis-topic-and-keyword-extraction-using-llm/index.html",
         "type": "file",
-        "md5": "4226388a4895c7854b6236041daebca5"
+        "md5": "ba6bec7a6854ae1588f8ce6dba5715b3"
     },
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "1bb61b44f94c4d5a35914da1d2112814"
+        "md5": "ab524c801110c899eaf4d33fd6eae85d"
     },
     {
         "path": "sitemap.xsl",
@@ -887,7 +1007,7 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "40674776e51fcc1695f38be483e01cca"
+        "md5": "910ea80535dfed4c18b273ddcdc56174"
     },
     {
         "path": "tags/portofolio",
@@ -897,7 +1017,7 @@
     {
         "path": "/tags/portofolio/index.html",
         "type": "file",
-        "md5": "5bb161a2c7f4cd906a3eb29e2ae660f4"
+        "md5": "710f1fa6e513f3d04eee3b99fb7fc57a"
     },
     {
         "path": "tags/portofolio/page",
@@ -912,6 +1032,6 @@
     {
         "path": "/tags/portofolio/page/2/index.html",
         "type": "file",
-        "md5": "a25f62c24b218e989a21b003af9fd597"
+        "md5": "faa5b948c387075612bdd19fec418765"
     }
 ]
